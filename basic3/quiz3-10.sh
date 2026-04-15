@@ -1,4 +1,5 @@
 #!/bin/sh
+
 file_count=0
 folder_count=0
 for item in *
